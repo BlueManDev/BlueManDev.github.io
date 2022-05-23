@@ -4,3 +4,7 @@ body {
 	font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
 	color: white;
 }
+
+header, footer {
+	background: black;
+}
